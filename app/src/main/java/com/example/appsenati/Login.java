@@ -21,7 +21,7 @@ public class Login extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_login);
 
-        // Se puede utilizar método load()...
+        // Se puede utilizar metodo load()...
         btnIngresar = findViewById(R.id.btnIniciarSesion);
 
         btnIngresar.setOnClickListener(new View.OnClickListener() {

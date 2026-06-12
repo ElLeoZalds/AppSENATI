@@ -12,7 +12,6 @@ import com.example.appsenati.fragments.RecepcionFragment;
 
 public class DashboardPagerAdapter extends FragmentStateAdapter {
 
-
     public DashboardPagerAdapter(@NonNull FragmentActivity fragmentActivity) {
         super(fragmentActivity);
     }
